@@ -1,0 +1,4 @@
+application:
+  name: local-cache
+server:
+  port: 7001
